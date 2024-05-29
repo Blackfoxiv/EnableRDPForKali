@@ -5,4 +5,4 @@ sudo apt update
 sudo apt install kali-linux-default
 sudo apt install kali-desktop-xfce
 sudo apt install xrdp
-sudo passwd myuser
+sudo passwd myuser 
